@@ -25,3 +25,4 @@ A three-page website designed for The Arena, a Pakistani 3D Cinema. The web desi
 
 # Acknowledgments
 * [Business Casual website theme by Blackrock Digital LLC](https://startbootstrap.com/template-overviews/business-casual/) - Used code from the template and modified it to create the cinema website design
+* Hat tip to [Mashood Ur Rehman](https://github.com/LiteralWizard) for his contribution to the Select Seats page
